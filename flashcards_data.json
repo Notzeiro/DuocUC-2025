@@ -1,0 +1,8 @@
+{
+    "linux": [
+        {
+            "title": "What's the command \"umask\" for?",
+            "content": "Is like chmod but insead is used to block permisions, for example chmod 755 would be to give permissions and umask 022 would be to block them."
+        }
+    ]
+}
